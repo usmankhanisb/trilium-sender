@@ -3,7 +3,7 @@ name: Gradle Dependency Submission
 on:
   push:
     branches:
-      - main  # Change this to your default branch if different
+      - usmankhanisb-patch-1  # Change this to your default branch if different
 
 jobs:
   submit-dependencies:
